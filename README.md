@@ -1,13 +1,17 @@
-# Hi there! 👋
+👾 Hey there, I'm Arjun!
 
-Hey there! I'm Arjun, a **game developer** who's as passionate about coding as catching Pokémon. I've tackled various aspects of game development, from **gameplay programming** to **tool development**, focusing on streamlining workflows for developers and crafting engaging experiences for players.
+🎮 Game Developer | 🚀 Tech Enthusiast | ⚡ Pokémon Trainer
 
-I'm a tech enthusiast, tinkering with **Unity, Unreal Engine, Cocos Creator, C++, C#, and TypeScript**. I'm constantly seeking ways to optimize development processes and bring innovative ideas to life. Whether it's building in-editor tools or refining game mechanics, I thrive on making things run smoothly—think of it as EV training, but for games!
+I'm a passionate game developer who loves crafting engaging experiences and streamlining development workflows. Whether it's gameplay programming, in-editor tool development, or optimizing game mechanics, I thrive on making things run smoothly—think of it as EV training, but for games!
 
-When I'm not coding, you'll likely find me immersed in Pokémon games, crafting battle strategies, or venturing into new game worlds. I'm always up for a challenge, be it **debugging a complex bug** or **conquering the Elite Four**!
+### 🎯 What I Do:
+- Build and refine gameplay mechanics  
+- Develop tools to boost productivity  
+- Optimize workflows for a smoother dev experience  
 
-✨ *Gotta code 'em all!* 🚀  
+When I'm not coding, you'll likely find me deep in Pokémon battles, fine-tuning strategies, or exploring new game worlds. Debugging a complex issue or taking on the Elite Four—I'm always up for a challenge!
 
+✨ Gotta code 'em all! 🚀
 ---
 
 ### 🛠 Tech Stack  
@@ -39,7 +43,6 @@ When I'm not coding, you'll likely find me immersed in Pokémon games, crafting 
   <a href="https://www.linkedin.com/in/arjunkprahaladan/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:arjunkprahaladan@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
   </a>
