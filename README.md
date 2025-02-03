@@ -1,4 +1,4 @@
-👾 Hey there, I'm Arjun!
+# 👾 Hey there, I'm Arjun!
 
 🎮 Game Developer | 🚀 Tech Enthusiast | ⚡ Pokémon Trainer
 
